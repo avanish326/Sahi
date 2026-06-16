@@ -1,0 +1,12 @@
+_includeAR("testing1.ar.csv", "Value");
+
+/**
+
+*/
+function TestKey() {
+	_includeAR("testing1.ar.csv", "Value");
+	_setValue($_TEXTBOX_USER, "test");
+	_setPassword($_PASSWORD_PASSWORD, "MgkKEQBU");
+	_click($_SUBMIT_LOGIN);
+
+}
