@@ -1,0 +1,14 @@
+
+/* /Users/jithendran/sahi_pro/userdata/scripts/demo/Lib/Admin/Catalog/Products.sah */
+var $_DIV_SUCCESSYOUHAVEMODIFIEDPRODUCTS = _div("Success: You have modified products! ×");
+var $_BUTTON_BTNBTNDANGER = _button("btn btn-danger");
+
+/* /Users/jithendran/sahi_pro/userdata/scripts/sahitests/framework/sample_lib.sah */
+var $_TEXTBOX_USERNAME = _textbox("username");
+var $_PASSWORD_PASSWORD = _password("password");
+var $_SUBMIT_AUTHLOGIN = _submit("auth.login");
+var $_DIV_APP = _div("app");
+var $_TEXTBOX_USER = _textbox("user");
+var $_SUBMIT_LOGIN = _submit("Login");
+
+/* /Users/jithendran/sahi_pro/userdata/scripts/sahitests/framework/sample_lib_new.sah */
