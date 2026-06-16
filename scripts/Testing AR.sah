@@ -22,8 +22,8 @@ function Test1() {
 */
 function Test2() {
 	_setValue($_TEXTBOX_Q, "1");
-	_setValue($_TEXTBOX_Q1, "1");
-	_setValue($_TEXTBOX_Q2, "1");
+	_setValue($_TEXTBOX_Q1, "2");
+	_setValue($_TEXTBOX_Q2, "3");
 	_click($_BUTTON_ADD);
 }
 
@@ -41,7 +41,7 @@ function Test3($_BUTTON_LOGOUT) {
 * @param $_PASSWORD_PASSWORD - 
 * @param $_SUBMIT_LOGIN - 
 */
-function Testing1() {
+function Testing2() {
 	_setValue($_TEXTBOX_USER, "test");
 	_setPassword($_PASSWORD_PASSWORD, "MgkKEQBU");
 	_click($_SUBMIT_LOGIN);
@@ -50,7 +50,7 @@ function Testing1() {
 /**
 * Testing2
 */
-function Testing2() {
+function Testing4() {
 	_setValue($_TEXTBOX_USER, "test");
 	_setPassword($_PASSWORD_PASSWORD, "MgkKEQBU");
 	_click($_SUBMIT_LOGIN);
