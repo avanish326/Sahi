@@ -10,3 +10,4 @@ function TestKey() {
 	_click($_SUBMIT_LOGIN);
 
 }
+TestKey()
